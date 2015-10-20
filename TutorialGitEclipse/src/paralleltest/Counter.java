@@ -4,7 +4,7 @@ public class Counter implements Runnable{
 
 	private static Integer numb = 0;
 	private int prevoiusNumb;
-	
+	private int newAttribute;
 	
 	
 	public  Integer getNumb(){
